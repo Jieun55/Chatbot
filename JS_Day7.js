@@ -20,7 +20,7 @@ function timer(){
 	h1[0].innerHTML=time;
 }
 
-function Start(){
+function Start(){ // 시작 버튼
     timer();
     set = setTimeout(Start, 1000);
 }
