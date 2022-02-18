@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h3 {
+    font-size: 50px;
+}
+.btn{
+    width: 300px;
+    height: 70px;
+    font-size: 25px;
+    background-color: green;
+    font-weight: bold;
+    border-radius: 40px 40px 40px 40px;
+}
